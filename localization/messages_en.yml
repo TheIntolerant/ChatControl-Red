@@ -100,8 +100,8 @@ Channels:
     Success: "Set {0} channel for {1} to {2} mode."
     Success_Remove: "Remove {0} channel from {1}."
     Usages: 
-    - "/{label} {sublabel} kangarko admin write &7- Set channel for player."
-    - "/{label} {sublabel} kangarko admin none &7- Remove a channel from player."
+    - "/{label} {sublabel} <player> <channel> <write/read> &7- Set channel for player."
+    - "/{label} {sublabel} <player> <channel> none &7- Remove a channel from player."
     
   List: 
     Description: "List players in chat channels."

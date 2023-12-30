@@ -90,8 +90,8 @@ Channels:
     Success: Modalità del canale {0} cambiata da {1} a {2}.
     Success_Remove: Rimuovi il canale {0} da {1}.
     Usages:
-    - '/{label} {sublabel} admin write kangarko &7- Fai entrare il player in un canale.'
-    - '/{label} {sublabel} admin none kangarko &7- Rimuovi il player da un canale.'
+    - '/{label} {sublabel} <player> <channel> <write/read> &7- Fai entrare il player in un canale.'
+    - '/{label} {sublabel} <player> <channel> none &7- Rimuovi il player da un canale.'
     
   List:
     Description: List players in chat channels.

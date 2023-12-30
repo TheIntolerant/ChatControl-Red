@@ -92,8 +92,8 @@ Channels:
     Success: 已將玩家 {1} 聊天頻道 {0} 的只讀與寫入模式更改為 {2}
     Success_Remove: 已將玩家 {1} 聊天頻道 {0} 的只讀與寫入模式移除
     Usages:
-    - '/{label} {sublabel} <頻道> <模式> <玩家名> &7- 更改某位玩家指定頻道的只讀與寫入模式'
-    - '/{label} {sublabel} <頻道> <none> <玩家名> &7- 移除某位玩家指定頻道的只讀與寫入模式'
+    - '/{label} {sublabel} <玩家名> <頻道> <模式> &7- 更改某位玩家指定頻道的只讀與寫入模式'
+    - '/{label} {sublabel} <玩家名> <頻道> none &7- 移除某位玩家指定頻道的只讀與寫入模式'
     
   List:
     Description: 列出聊天頻道內所有玩家列表
